@@ -1,0 +1,26 @@
+{ 
+    "NORTE": {
+        "min": "#fdefeb",
+        "max": "#eb6737"
+    },
+    "SUR": {
+        "min": "#eef9e5",
+        "max": "#5ac400"
+    },
+    "ESTE": {
+        "min": "#fbecf0",
+        "max": "#df416c"
+    },
+    "CENTRO": {
+        "min": "#e9f6fb",
+        "max": "#24a9e0"
+    },
+    "CATALUNYA": {
+        "min": "#f4ecf4",
+        "max": "#954a97"
+    },
+    "CANARIAS": {
+        "min": "#e5eaeb",
+        "max": "#003140"
+    }
+}
